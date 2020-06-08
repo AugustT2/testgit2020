@@ -1,0 +1,7 @@
+package com.chenhuan.testgit2020.entity;
+
+public class Student {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
